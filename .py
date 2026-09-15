@@ -1,4 +1,3 @@
-
 import streamlit as st
 
 st.title("Clasificador de temperatura")
@@ -12,4 +11,4 @@ if temperatura <10:
 elif temperatura <=24:
    st.write("La temperatura es agradable")
 else temperatura:
-  st.write("Hace calor")
+   st.write("Hace calor")
