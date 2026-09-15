@@ -12,5 +12,5 @@ if temperatura <10:
 st.write("Hace frío")
 elif temperatura <=24:
 st.write("La temperatura es agradable")
-else temperatura:
+else:
 st.write("Hace calor")
