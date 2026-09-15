@@ -7,8 +7,8 @@ temperatura =st.number_input("Introduce la temperatura en °C:",
 
 #Escribe aquí la estructura if-elif-else
 if temperatura <10:
-st.write("Hace frío")
+  st.write("Hace frío")
 elif temperatura <=24:
-st.write("La temperatura es agradable")
+  st.write("La temperatura es agradable")
 else:
-st.write("Hace calor")
+  st.write("Hace calor")
